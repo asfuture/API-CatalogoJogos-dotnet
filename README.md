@@ -1,4 +1,4 @@
-# APICatalagoJogos-dotnet
+# API Catalago de Jogos com dotnet
 
 ## O sistema de cadastro de série tem as funções:
 
